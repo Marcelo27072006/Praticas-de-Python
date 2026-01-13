@@ -1,4 +1,5 @@
 Práticas de Código Base em Python
+
 📌 Descrição
 
 Este repositório tem como objetivo praticar e aprimorar a linguagem Python, com foco em fundamentos essenciais da programação. A ideia é fortalecer o raciocínio lógico, melhorar a escrita de código limpo e consolidar conceitos básicos que servem de base para projetos mais avançados.
