@@ -5,7 +5,7 @@ def miss(lista):
     for i in lista:
         j+=1
         if i != j:
-            print(j)
             return j
 
-miss(nums)
+contador = miss(nums)
+print(contador)

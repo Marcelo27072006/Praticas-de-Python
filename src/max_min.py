@@ -8,9 +8,8 @@ def max_min(lista):
             menor = i
         elif i > maior:
             maior = i
-
     output = maior - menor
-    print(output)
     return output
 
-max_min(nums)
+contador = max_min(nums)
+print(contador)
